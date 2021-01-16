@@ -1,4 +1,4 @@
-2020-11-24 11:26:27,194 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py[line:434] - INFO: Started server process [3104]
-2020-11-24 11:26:27,195 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\lifespan\on.py[line:26] - INFO: Waiting for application startup.
-2020-11-24 11:26:27,195 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\lifespan\on.py[line:38] - INFO: Application startup complete.
-2020-11-24 11:26:27,196 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py[line:536] - INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2021-01-16 20:56:13,500 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py[line:434] - INFO: Started server process [3944]
+2021-01-16 20:56:13,502 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\lifespan\on.py[line:26] - INFO: Waiting for application startup.
+2021-01-16 20:56:13,502 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\lifespan\on.py[line:38] - INFO: Application startup complete.
+2021-01-16 20:56:13,502 - C:\Users\jizeyuan\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py[line:536] - INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
